@@ -1,2 +1,3 @@
 # student-teacher-portal
-Student Teacher Portal
+Java Files for student-teacher Portal
+Its made using Swing , Hibernate ,JDBC , Oracle Database.
